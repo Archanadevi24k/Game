@@ -1,4 +1,4 @@
-const Stars=(props)=>{
+const Stars=(propss)=>{
   return(
   <div className="col-5">
     {_.range(props.numberOfStars).map(i =>
